@@ -1,0 +1,1 @@
+let yourArray=["uno",2,false,{"otro":1},[0,1,2]]; // Change this line
